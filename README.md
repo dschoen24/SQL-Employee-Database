@@ -1,1 +1,3 @@
 # sql-challenge
+
+SQL - EMPLOYEE DATABASE: A MYSTERY IN TWO PARTS
