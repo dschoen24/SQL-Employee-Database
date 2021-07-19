@@ -38,4 +38,4 @@ Once I had a complete database to work with, I was able to perform the following
 8. In descending order, I listed the  frequency count of employee last names (i.e. how many employees
   share each last name
 
-The code used to complete the above analysis is saved as emp_queries.sql and can be found within the EmployeesSQL folder
+- The code used to complete the above analysis is saved as emp_queries.sql and can be found within the EmployeesSQL folder
