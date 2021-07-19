@@ -39,3 +39,16 @@ Once I had a complete database to work with, I was able to perform the following
   share each last name
 
 - The code used to complete the above analysis is saved as emp_queries.sql and can be found within the EmployeesSQL folder
+
+**Bous**
+
+Analysis test of the data to visualize if the data is spurious.
+
+- Code used for bonus analysis is saved a as bonus.ipynb(Jupyter Notebook) within the EmployeesSQL folder
+
+Conclusion Drawn:
+1. Conclusion is that the data is in fact spurious data & used to test my Data Engineering Skills
+2. Conclusion was based on the fact that the Senior Engineer shows an average salary that is less than regular staff members as well as the same avarage salary as the Engineer title and the Assistant Engineer title.  Senior Engineers should make on average more than regular staff employees and the Engineers and Assistant Engineers working under them.
+3. April Fools Day
+
+
