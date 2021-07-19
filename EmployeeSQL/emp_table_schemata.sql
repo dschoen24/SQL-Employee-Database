@@ -1,3 +1,5 @@
+DROP TABLE departments;
+
 CREATE TABLE departments(
 	dept_no VARCHAR PRIMARY KEY NOT NULL,
 	dept_name VARCHAR NOT NULL
@@ -5,12 +7,16 @@ CREATE TABLE departments(
 
 SELECT * FROM departments;
 
+DROP TABLE titles;
+
 CREATE TABLE titles(
 	title_id VARCHAR PRIMARY KEY NOT NULL,
 	title VARCHAR NOT NULL
 );
 
 select * from titles;
+
+DROP TABLE employees;
 
 CREATE TABLE employees(
 	emp_no INT PRIMARY KEY NOT NULL,
@@ -25,6 +31,8 @@ CREATE TABLE employees(
 
 SELECT * FROM employees;
 
+DROP TABLE dept_emp;
+
 CREATE TABLE dept_emp(
 	emp_no INT,
 	dept_no VARCHAR NOT NULL,
@@ -34,6 +42,8 @@ CREATE TABLE dept_emp(
 
 SELECT * FROM dept_emp;
 
+DROP TABLE dept_manager;
+
 CREATE TABLE dept_manager(
 	dept_no VARCHAR NOT NULL,
 	emp_no INT,
@@ -42,6 +52,8 @@ CREATE TABLE dept_manager(
 );
 
 SELECT * FROM dept_manager;
+
+DROP TABLE salaries;
 
 CREATE TABLE salaries(
 	emp_no INT NOT NULL,
