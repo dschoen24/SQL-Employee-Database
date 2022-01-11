@@ -1,6 +1,4 @@
-# sql-challenge
-
-SQL - EMPLOYEE DATABASE: A MYSTERY IN TWO PARTS
+# SQL - EMPLOYEE DATABASE: A MYSTERY IN TWO PARTS
 
 **Data Modeling**
 
@@ -40,7 +38,7 @@ Once I had a complete database to work with, I was able to perform the following
 
 - The code used to complete the above analysis is saved as emp_queries.sql and can be found within the EmployeesSQL folder
 
-**Bous**
+**Conclusion**
 
 Analysis test of the data to visualize if the data is spurious.
 
